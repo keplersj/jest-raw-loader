@@ -16,7 +16,9 @@ $ npm install --save-dev jest-raw-loader
 
 ## Usage
 
-Use jest's `transform` configuration options to use this package in your unit tests. For example use the following to raw load `.md` and `.graphql` files:
+Use [jest's `transform` configuration options](https://facebook.github.io/jest/docs/en/configuration.html#transform-object-string-string) to use this package in your unit tests.
+
+For example use the following to raw load `.md` and `.graphql` files:
 
 ```js
 "jest": {
