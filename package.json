@@ -1,0 +1,10 @@
+{
+  "name": "jest-raw-loader",
+  "version": "0.1.0",
+  "description": "Jest transformer mimicking webpack-contrib/raw-loader's functionality",
+  "main": "index.js",
+  "repository": "https://github.com/keplersj/jest-raw-loader",
+  "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
+  "license": "MIT",
+  "private": false
+}
