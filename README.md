@@ -20,7 +20,7 @@ Use [jest's `transform` configuration options](https://facebook.github.io/jest/d
 
 For example use the following to raw load `.md` and `.graphql` files:
 
-```js
+```json
 "jest": {
   "transform": {
     "\\.graphql$": "<rootDir>/node_modules/jest-raw-loader/index.js",
