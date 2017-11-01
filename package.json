@@ -1,6 +1,6 @@
 {
   "name": "jest-raw-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description":
     "Jest transformer mimicking webpack-contrib/raw-loader's functionality",
   "main": "index.js",
