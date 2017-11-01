@@ -23,8 +23,8 @@ For example use the following to raw load `.md` and `.graphql` files:
 ```json
 "jest": {
   "transform": {
-    "\\.graphql$": "<rootDir>/node_modules/jest-raw-loader/index.js",
-    "\\.md$": "<rootDir>/node_modules/jest-raw-loader/index.js"
+    "\\.graphql$": "jest-raw-loader",
+    "\\.md$": "jest-raw-loader"
   }
 }
 ```
