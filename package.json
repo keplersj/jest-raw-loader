@@ -29,7 +29,7 @@
     "jest": "^25.1.0",
     "jest-runner-eslint": "^0.7.6",
     "jest-runner-prettier": "^0.3.6",
-    "lint-staged": "^4.3.0",
+    "lint-staged": "^10.0.4",
     "prettier": "^1.19.1"
   },
   "jest": {
