@@ -1,11 +1,5 @@
 # jest-raw-loader
 
-[![npm](https://img.shields.io/npm/v/jest-raw-loader.svg)](https://www.npmjs.com/package/jest-raw-loader)
-[![Build Status](https://travis-ci.org/keplersj/jest-raw-loader.svg?branch=master)](https://travis-ci.org/keplersj/jest-raw-loader)
-[![Code Coverage](https://codecov.io/gh/keplersj/jest-raw-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/keplersj/jest-raw-loader)
-[![Code Style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Mentioned in Awesome Jest](https://awesome.re/mentioned-badge.svg)](https://github.com/jest-community/awesome-jest)
-
 [Jest](https://facebook.github.io/jest/) transformer mimicking [webpack-contrib/raw-loader](https://github.com/webpack-contrib/raw-loader)'s functionality
 
 ## Install
