@@ -25,4 +25,4 @@ For example use the following to raw load `.md` and `.graphql` files:
 
 ## License
 
-MIT © [Kepler Sticka-Jones](https://github.com/keplersj)
+Copyright 2017-2020 [Kepler Sticka-Jones](https://keplersj.com/). Licensed MIT.
