@@ -1,4 +1,4 @@
-const { process } = require("../");
+const { process } = require("..");
 
 describe("jest-raw-loader", () => {
   it("works as expected", () => {

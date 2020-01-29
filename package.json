@@ -23,8 +23,11 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-starstuff": "^1.4.5",
     "husky": "^0.14.3",
     "jest": "^25.1.0",
+    "jest-runner-eslint": "^0.7.6",
     "jest-runner-prettier": "^0.3.6",
     "lint-staged": "^4.3.0",
     "prettier": "^1.19.1"
@@ -43,7 +46,24 @@
           "/node_modules/",
           "/coverage/"
         ]
+      },
+      {
+        "displayName": "lint:eslint",
+        "runner": "eslint",
+        "testMatch": [
+          "<rootDir>/**/*.js"
+        ],
+        "testPathIgnorePatterns": [
+          "/node_modules/",
+          "/coverage/"
+        ]
       }
     ]
+  },
+  "eslintConfig": {
+    "extends": "starstuff/auto",
+    "env": {
+      "node": true
+    }
   }
 }
