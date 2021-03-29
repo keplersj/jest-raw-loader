@@ -25,7 +25,7 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-starstuff": "^1.4.42",
-    "husky": "^5.0.9",
+    "husky": "^6.0.0",
     "jest": "^26.0.1",
     "jest-runner-eslint": "^0.10.0",
     "jest-runner-prettier": "^0.3.6",
