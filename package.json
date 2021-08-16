@@ -14,12 +14,10 @@
   "lint-staged": {
     "*.js": [
       "prettier --write",
-      "git add",
       "jest --bail --findRelatedTests"
     ],
     "*.json": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   },
   "devDependencies": {
