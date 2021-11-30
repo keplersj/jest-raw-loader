@@ -24,7 +24,7 @@
     "eslint": "7.32.0",
     "eslint-config-starstuff": "1.5.6",
     "husky": "7.0.4",
-    "jest": "27.4.0",
+    "jest": "27.4.1",
     "jest-runner-eslint": "1.0.0",
     "jest-runner-prettier": "0.3.7",
     "lint-staged": "12.1.2",
