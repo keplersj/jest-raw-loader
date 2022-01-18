@@ -27,7 +27,7 @@
     "jest": "27.4.7",
     "jest-runner-eslint": "1.0.0",
     "jest-runner-prettier": "0.3.7",
-    "lint-staged": "12.1.7",
+    "lint-staged": "12.2.0",
     "prettier": "2.5.1"
   },
   "jest": {
