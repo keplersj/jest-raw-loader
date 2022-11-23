@@ -1,3 +1,7 @@
 module.exports = {
-  process: (content) => "module.exports = " + JSON.stringify(content),
+  process: (content) => {
+    return {
+      code: "module.exports = " + JSON.stringify(content),
+    };
+  },
 };
