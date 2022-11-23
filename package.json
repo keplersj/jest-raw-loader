@@ -8,6 +8,7 @@
   "private": false,
   "scripts": {
     "prepare": "husky install",
+    "prepare-release": "npm install && npm version --new-version $APP_VERSION --no-git-tag-version",
     "test": "jest"
   },
   "lint-staged": {
