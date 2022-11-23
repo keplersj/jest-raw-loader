@@ -7,8 +7,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test": "jest",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "jest"
   },
   "lint-staged": {
     "*.js": [
