@@ -20,6 +20,9 @@
       "prettier --write"
     ]
   },
+  "peerDependencies": {
+    "jest": ">=28"
+  },
   "devDependencies": {
     "eslint": "8.28.0",
     "eslint-config-starstuff": "1.5.15",
