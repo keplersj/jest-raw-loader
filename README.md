@@ -23,6 +23,9 @@ For example use the following to raw load `.md` and `.graphql` files:
 }
 ```
 
+This is for jest >= 28, if you are using older version use `jest-raw-loader` package:
+- https://github.com/keplersj/jest-raw-loader
+
 ## License
 
 Copyright 2017-2020 [Kepler Sticka-Jones](https://keplersj.com/). Licensed MIT.
