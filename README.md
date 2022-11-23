@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install --save-dev jest-raw-loader
+$ npm install --save-dev @glen/jest-raw-loader
 ```
 
 ## Usage
@@ -17,8 +17,8 @@ For example use the following to raw load `.md` and `.graphql` files:
 ```json
 "jest": {
   "transform": {
-    "\\.graphql$": "jest-raw-loader",
-    "\\.md$": "jest-raw-loader"
+    "\\.graphql$": "@glen/jest-raw-loader",
+    "\\.md$": "@glen/jest-raw-loader"
   }
 }
 ```
