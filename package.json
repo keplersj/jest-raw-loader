@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "eslint": "8.57.0",
-    "eslint-config-starstuff": "1.5.64",
+    "eslint-config-starstuff": "1.5.65",
     "husky": "9.0.11",
     "jest": "28.1.3",
     "jest-runner-eslint": "2.2.0",
