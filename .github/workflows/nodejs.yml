@@ -16,6 +16,6 @@ jobs:
         env:
           CI: true
       - name: Codecov
-        uses: codecov/codecov-action@v5.0.4
+        uses: codecov/codecov-action@v5.0.5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
