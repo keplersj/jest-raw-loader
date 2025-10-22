@@ -28,7 +28,7 @@
     "jest-runner-eslint": "2.3.0",
     "jest-runner-prettier": "1.0.0",
     "lint-staged": "16.2.6",
-    "prettier": "2.8.8"
+    "prettier": "3.6.2"
   },
   "jest": {
     "collectCoverage": true,
