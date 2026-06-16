@@ -4,6 +4,10 @@
   "description": "Jest transformer mimicking webpack-contrib/raw-loader's functionality",
   "main": "index.js",
   "repository": "https://github.com/keplersj/jest-raw-loader",
+  "homepage": "https://github.com/keplersj/jest-raw-loader#readme",
+  "bugs": {
+    "url": "https://github.com/keplersj/jest-raw-loader/issues"
+  },
   "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
   "license": "MIT",
   "private": false,
