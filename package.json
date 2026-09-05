@@ -63,5 +63,9 @@
     "env": {
       "node": true
     }
+  },
+  "homepage": "https://github.com/keplersj/jest-raw-loader#readme",
+  "bugs": {
+    "url": "https://github.com/keplersj/jest-raw-loader/issues"
   }
 }
